@@ -4,20 +4,22 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 
 | Courses                                                                                                                                                                         |   Status   |   Evidence   |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                               |Working on.|              |
-| Full Stack Online - Intro to Programming                                                                                                                                        |            |              |
-| Full Stack Online - Software Engineering Foundations                                                                                                                            |            |              |
-| Full Stack Online - Ruby                                                                                                                                                        |            |              |
-| Full Stack Online - SQL                                                                                                                                                         |            |              |
-| Full Stack Online - Rails                                                                                                                                                       |            |              |
-| Full Stack Online - JavaScript                                                                                                                                                  |            |              |
-| Full Stack Online - React                                                                                                                                                       |            |              |
-| Full Stack Online - Full Stack Project                                                                                                                                          |            |              |
-| Full Stack Online - MERN Stack Curriciulum                                                                                                                                      |            |              |
-| Full Stack Online - Job Search                                                                                                                                                  |            |              |
-| Full Stack Online - Docker                                                                                                                                                      |            |              |
-| Full Stack Online - GraphQl                                                                                                                                                     |            |              |
-| Full Stack Online - Data Structures and Algorithms                                                                                                                              |            |              |
+| 1. Web Development Fundamentals                                                                                                                                       | Working on |              |
+| 2.	JavaScript Fundamentals                                                                                                                                           |            |              |
+| 3.	Intermediate JavaScript                                                                                                                                           |            |              |
+| 4.	TDD and OOP                                                                                                                                                       |            |              |
+| 5.	Data Structures and Algorithms                                                                                                                                    |            |              |
+| 6.	HTML and CSS                                                                                                                                                      |            |              |
+| 7.	Servers, APIs, and Promises                                                                                                                                       |            |              |
+| 8.	Frontend JavaScript                                                                                                                                               |            |              |
+| 9.	Express & SQL                                                                                                                                                     |            |              |
+| 10.	Express & Sequelize                                                                                                                                               |            |              |
+| 11.	Web Security and Authentication                                                                                                                                   |            |              |
+| 12.	React                                                                                                                                                             |            |              |
+| 13.	Redux and Authentication                                                                                                                                          |            |              |
+| 14.	Python                                                                                                                                                            |            |              |
+| 15.	Flask, SQLAlchemy, and Forms                                                                                                                                      |            |              |
+| 16.	Docker and Microservices                                                                                                                                          |            |              |
 | **Reading**                                                                                                                                                                     | **Status** | **Evidence** |
 | [Official React Docs](https://reactjs.org/docs/getting-started.html)                                                                                                            |            |              |
 | **Capstone**                                                                                                                                                                    | **Status** | **Evidence** |
